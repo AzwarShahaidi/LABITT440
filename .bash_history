@@ -1,0 +1,2 @@
+ifconfig
+uname -a
